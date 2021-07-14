@@ -7,7 +7,7 @@ function Login() {
     <div className="h-100 login-page">
       <div className="text-center" style={{ paddingTop: "20%" }}>
         <h1>
-          Breache Insured Test
+          Breach Insured Test
           <div>
             <small>
               Allow Breach Insured read-only access to your Coinbase
